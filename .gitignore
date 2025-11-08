@@ -1,0 +1,12 @@
+node_modules/
+.env
+.DS_Store
+.vscode/
+
+# backend and frontend local envs
+/backend/.env
+/frontend/.env
+
+# logs
+npm-debug.log*
+yarn-debug.log*
